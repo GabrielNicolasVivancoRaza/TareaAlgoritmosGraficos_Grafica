@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LineasCicunferencias/1.0.0": {
+        "runtime": {
+          "LineasCicunferencias.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LineasCicunferencias/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

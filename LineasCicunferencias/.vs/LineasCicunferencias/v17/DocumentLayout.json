@@ -1,0 +1,203 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gabo\\OneDrive\\Escritorio\\5 Semestre\\GRAFICA\\LineasCicunferencias\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B2119A6-8ECA-4041-945D-1930142269E6}|LineasCicunferencias\\LineasCicunferencias.csproj|c:\\users\\gabo\\onedrive\\escritorio\\5 semestre\\grafica\\lineascicunferencias\\lineascicunferencias\\frmbresenhamcirculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B2119A6-8ECA-4041-945D-1930142269E6}|LineasCicunferencias\\LineasCicunferencias.csproj|solutionrelative:lineascicunferencias\\frmbresenhamcirculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B2119A6-8ECA-4041-945D-1930142269E6}|LineasCicunferencias\\LineasCicunferencias.csproj|c:\\users\\gabo\\onedrive\\escritorio\\5 semestre\\grafica\\lineascicunferencias\\lineascicunferencias\\frmbresenhamcirculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8B2119A6-8ECA-4041-945D-1930142269E6}|LineasCicunferencias\\LineasCicunferencias.csproj|solutionrelative:lineascicunferencias\\frmbresenhamcirculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B2119A6-8ECA-4041-945D-1930142269E6}|LineasCicunferencias\\LineasCicunferencias.csproj|c:\\users\\gabo\\onedrive\\escritorio\\5 semestre\\grafica\\lineascicunferencias\\lineascicunferencias\\classbresenhamcirculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B2119A6-8ECA-4041-945D-1930142269E6}|LineasCicunferencias\\LineasCicunferencias.csproj|solutionrelative:lineascicunferencias\\classbresenhamcirculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B2119A6-8ECA-4041-945D-1930142269E6}|LineasCicunferencias\\LineasCicunferencias.csproj|c:\\users\\gabo\\onedrive\\escritorio\\5 semestre\\grafica\\lineascicunferencias\\lineascicunferencias\\classbrsenham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B2119A6-8ECA-4041-945D-1930142269E6}|LineasCicunferencias\\LineasCicunferencias.csproj|solutionrelative:lineascicunferencias\\classbrsenham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B2119A6-8ECA-4041-945D-1930142269E6}|LineasCicunferencias\\LineasCicunferencias.csproj|c:\\users\\gabo\\onedrive\\escritorio\\5 semestre\\grafica\\lineascicunferencias\\lineascicunferencias\\frmbresenham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B2119A6-8ECA-4041-945D-1930142269E6}|LineasCicunferencias\\LineasCicunferencias.csproj|solutionrelative:lineascicunferencias\\frmbresenham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B2119A6-8ECA-4041-945D-1930142269E6}|LineasCicunferencias\\LineasCicunferencias.csproj|c:\\users\\gabo\\onedrive\\escritorio\\5 semestre\\grafica\\lineascicunferencias\\lineascicunferencias\\frmlineas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B2119A6-8ECA-4041-945D-1930142269E6}|LineasCicunferencias\\LineasCicunferencias.csproj|solutionrelative:lineascicunferencias\\frmlineas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B2119A6-8ECA-4041-945D-1930142269E6}|LineasCicunferencias\\LineasCicunferencias.csproj|c:\\users\\gabo\\onedrive\\escritorio\\5 semestre\\grafica\\lineascicunferencias\\lineascicunferencias\\frmlineas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8B2119A6-8ECA-4041-945D-1930142269E6}|LineasCicunferencias\\LineasCicunferencias.csproj|solutionrelative:lineascicunferencias\\frmlineas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B2119A6-8ECA-4041-945D-1930142269E6}|LineasCicunferencias\\LineasCicunferencias.csproj|c:\\users\\gabo\\onedrive\\escritorio\\5 semestre\\grafica\\lineascicunferencias\\lineascicunferencias\\classdda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B2119A6-8ECA-4041-945D-1930142269E6}|LineasCicunferencias\\LineasCicunferencias.csproj|solutionrelative:lineascicunferencias\\classdda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B2119A6-8ECA-4041-945D-1930142269E6}|LineasCicunferencias\\LineasCicunferencias.csproj|c:\\users\\gabo\\onedrive\\escritorio\\5 semestre\\grafica\\lineascicunferencias\\lineascicunferencias\\frmbresenham.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B2119A6-8ECA-4041-945D-1930142269E6}|LineasCicunferencias\\LineasCicunferencias.csproj|solutionrelative:lineascicunferencias\\frmbresenham.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B2119A6-8ECA-4041-945D-1930142269E6}|LineasCicunferencias\\LineasCicunferencias.csproj|c:\\users\\gabo\\onedrive\\escritorio\\5 semestre\\grafica\\lineascicunferencias\\lineascicunferencias\\frmbresenham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8B2119A6-8ECA-4041-945D-1930142269E6}|LineasCicunferencias\\LineasCicunferencias.csproj|solutionrelative:lineascicunferencias\\frmbresenham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B2119A6-8ECA-4041-945D-1930142269E6}|LineasCicunferencias\\LineasCicunferencias.csproj|c:\\users\\gabo\\onedrive\\escritorio\\5 semestre\\grafica\\lineascicunferencias\\lineascicunferencias\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8B2119A6-8ECA-4041-945D-1930142269E6}|LineasCicunferencias\\LineasCicunferencias.csproj|solutionrelative:lineascicunferencias\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClassBresenhamCirculo.cs",
+              "DocumentMoniker": "C:\\Users\\Gabo\\OneDrive\\Escritorio\\5 Semestre\\GRAFICA\\LineasCicunferencias\\LineasCicunferencias\\ClassBresenhamCirculo.cs",
+              "RelativeDocumentMoniker": "LineasCicunferencias\\ClassBresenhamCirculo.cs",
+              "ToolTip": "C:\\Users\\Gabo\\OneDrive\\Escritorio\\5 Semestre\\GRAFICA\\LineasCicunferencias\\LineasCicunferencias\\ClassBresenhamCirculo.cs",
+              "RelativeToolTip": "LineasCicunferencias\\ClassBresenhamCirculo.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAqwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T01:52:45.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClassBrsenham.cs",
+              "DocumentMoniker": "C:\\Users\\Gabo\\OneDrive\\Escritorio\\5 Semestre\\GRAFICA\\LineasCicunferencias\\LineasCicunferencias\\ClassBrsenham.cs",
+              "RelativeDocumentMoniker": "LineasCicunferencias\\ClassBrsenham.cs",
+              "ToolTip": "C:\\Users\\Gabo\\OneDrive\\Escritorio\\5 Semestre\\GRAFICA\\LineasCicunferencias\\LineasCicunferencias\\ClassBrsenham.cs",
+              "RelativeToolTip": "LineasCicunferencias\\ClassBrsenham.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAqwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T01:51:02.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmLineas.cs",
+              "DocumentMoniker": "C:\\Users\\Gabo\\OneDrive\\Escritorio\\5 Semestre\\GRAFICA\\LineasCicunferencias\\LineasCicunferencias\\FrmLineas.cs",
+              "RelativeDocumentMoniker": "LineasCicunferencias\\FrmLineas.cs",
+              "ToolTip": "C:\\Users\\Gabo\\OneDrive\\Escritorio\\5 Semestre\\GRAFICA\\LineasCicunferencias\\LineasCicunferencias\\FrmLineas.cs",
+              "RelativeToolTip": "LineasCicunferencias\\FrmLineas.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAgwE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T01:40:14.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmLineas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Gabo\\OneDrive\\Escritorio\\5 Semestre\\GRAFICA\\LineasCicunferencias\\LineasCicunferencias\\FrmLineas.cs",
+              "RelativeDocumentMoniker": "LineasCicunferencias\\FrmLineas.cs",
+              "ToolTip": "C:\\Users\\Gabo\\OneDrive\\Escritorio\\5 Semestre\\GRAFICA\\LineasCicunferencias\\LineasCicunferencias\\FrmLineas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "LineasCicunferencias\\FrmLineas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T01:40:12.753Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClassDDA.cs",
+              "DocumentMoniker": "C:\\Users\\Gabo\\OneDrive\\Escritorio\\5 Semestre\\GRAFICA\\LineasCicunferencias\\LineasCicunferencias\\ClassDDA.cs",
+              "RelativeDocumentMoniker": "LineasCicunferencias\\ClassDDA.cs",
+              "ToolTip": "C:\\Users\\Gabo\\OneDrive\\Escritorio\\5 Semestre\\GRAFICA\\LineasCicunferencias\\LineasCicunferencias\\ClassDDA.cs",
+              "RelativeToolTip": "LineasCicunferencias\\ClassDDA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T01:34:53.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmHome.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Gabo\\OneDrive\\Escritorio\\5 Semestre\\GRAFICA\\LineasCicunferencias\\LineasCicunferencias\\FrmHome.cs",
+              "RelativeDocumentMoniker": "LineasCicunferencias\\FrmHome.cs",
+              "ToolTip": "C:\\Users\\Gabo\\OneDrive\\Escritorio\\5 Semestre\\GRAFICA\\LineasCicunferencias\\LineasCicunferencias\\FrmHome.cs [Dise\u00F1o]",
+              "RelativeToolTip": "LineasCicunferencias\\FrmHome.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T01:28:35.52Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmBresenhamCirculo.cs",
+              "DocumentMoniker": "C:\\Users\\Gabo\\OneDrive\\Escritorio\\5 Semestre\\GRAFICA\\LineasCicunferencias\\LineasCicunferencias\\FrmBresenhamCirculo.cs",
+              "RelativeDocumentMoniker": "LineasCicunferencias\\FrmBresenhamCirculo.cs",
+              "ToolTip": "C:\\Users\\Gabo\\OneDrive\\Escritorio\\5 Semestre\\GRAFICA\\LineasCicunferencias\\LineasCicunferencias\\FrmBresenhamCirculo.cs",
+              "RelativeToolTip": "LineasCicunferencias\\FrmBresenhamCirculo.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAgwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T00:51:40.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmBresenhamCirculo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Gabo\\OneDrive\\Escritorio\\5 Semestre\\GRAFICA\\LineasCicunferencias\\LineasCicunferencias\\FrmBresenhamCirculo.cs",
+              "RelativeDocumentMoniker": "LineasCicunferencias\\FrmBresenhamCirculo.cs",
+              "ToolTip": "C:\\Users\\Gabo\\OneDrive\\Escritorio\\5 Semestre\\GRAFICA\\LineasCicunferencias\\LineasCicunferencias\\FrmBresenhamCirculo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "LineasCicunferencias\\FrmBresenhamCirculo.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T00:51:35.621Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmBresenham.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Gabo\\OneDrive\\Escritorio\\5 Semestre\\GRAFICA\\LineasCicunferencias\\LineasCicunferencias\\FrmBresenham.cs",
+              "RelativeDocumentMoniker": "LineasCicunferencias\\FrmBresenham.cs",
+              "ToolTip": "C:\\Users\\Gabo\\OneDrive\\Escritorio\\5 Semestre\\GRAFICA\\LineasCicunferencias\\LineasCicunferencias\\FrmBresenham.cs [Dise\u00F1o]",
+              "RelativeToolTip": "LineasCicunferencias\\FrmBresenham.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T00:50:20.686Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmBresenham.cs",
+              "DocumentMoniker": "C:\\Users\\Gabo\\OneDrive\\Escritorio\\5 Semestre\\GRAFICA\\LineasCicunferencias\\LineasCicunferencias\\FrmBresenham.cs",
+              "RelativeDocumentMoniker": "LineasCicunferencias\\FrmBresenham.cs",
+              "ToolTip": "C:\\Users\\Gabo\\OneDrive\\Escritorio\\5 Semestre\\GRAFICA\\LineasCicunferencias\\LineasCicunferencias\\FrmBresenham.cs",
+              "RelativeToolTip": "LineasCicunferencias\\FrmBresenham.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAiwFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T00:49:32.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmBresenham.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Gabo\\OneDrive\\Escritorio\\5 Semestre\\GRAFICA\\LineasCicunferencias\\LineasCicunferencias\\FrmBresenham.Designer.cs",
+              "RelativeDocumentMoniker": "LineasCicunferencias\\FrmBresenham.Designer.cs",
+              "ToolTip": "C:\\Users\\Gabo\\OneDrive\\Escritorio\\5 Semestre\\GRAFICA\\LineasCicunferencias\\LineasCicunferencias\\FrmBresenham.Designer.cs",
+              "RelativeToolTip": "LineasCicunferencias\\FrmBresenham.Designer.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAWwEoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T00:48:30.658Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
